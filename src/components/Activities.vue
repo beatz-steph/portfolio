@@ -1,5 +1,5 @@
 <template>
-    <div class="container" id="activities">
+    <div class="container scrollspy" id="act">
         <ul class="tabs">
             <li class="tab"><a href="#activities">Activities</a></li>
             <li class="tab"><a href="#projects">Projects</a></li>

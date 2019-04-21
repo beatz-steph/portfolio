@@ -10,7 +10,7 @@
                 </a>
                 <ul class="right hide-on-med-and-down">
                     <li><a href="#skills">Skills</a></li>
-                    <li><a href="#activities">Activities</a></li>
+                    <li><a href="#act">Activities</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
                 <ul class="sidenav grey lighten-2" id="mobile-menu">

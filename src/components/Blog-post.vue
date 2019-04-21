@@ -1,5 +1,5 @@
 <template>
-<section class="container section" id="skills">
+<section class="container section scrollspy" id="skills">
     <div class="row">
         <div class="col s12 l4">
             <img src="https://i.imgur.com/RiaA9Hi.jpg" alt="" class="responsive-img" >

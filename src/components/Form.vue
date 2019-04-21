@@ -1,5 +1,5 @@
 <template>
-    <section class="sction container" id="contact">
+    <section class="sction container scrollspy" id="contact">
         <div class="row">
             <div class="col s12 l5">
                 <h2 class="ingo-text text-darken-4"> Get in touch</h2>
