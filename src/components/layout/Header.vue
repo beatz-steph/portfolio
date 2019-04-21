@@ -12,6 +12,15 @@
                     <li><a href="#skills">Skills</a></li>
                     <li><a href="#act">Activities</a></li>
                     <li><a href="#contact">Contact</a></li>
+                    <li><a href="#" class="btn-floatin btn-small grey darken-2 tooltipped" data-tooltip='Instagram'>
+                        <i class="fab fa-instagram"></i>
+                    </a></li>
+                    <li><a href="#" class="btn-floatin btn-small grey darken-2 tooltipped" data-tooltip='Facebook'>
+                        <i class="fab fa-facebook"></i>
+                    </a></li>
+                    <li><a href="#" class="btn-floatin btn-small grey darken-2 tooltipped" data-tooltip='Medium'>
+                        <i class="fab fa-medium"></i>
+                    </a></li>
                 </ul>
                 <ul class="sidenav grey lighten-2" id="mobile-menu">
                     <li><a href="#">Skills</a></li>
