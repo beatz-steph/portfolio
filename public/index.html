@@ -4,10 +4,43 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- googlefonts -->
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond|Mukta" rel="stylesheet">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <!-- Compiled and minified JavaScript -->
     <title>portfolio</title>
+    <style>
+    body{
+      margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    font-family: 'Mukta', sans-serif;
+    }
+    </style>
   </head>
   <body>
     <div id="app"></div>
   </body>
+  <script src="https://code.jquery.com/jquery-3.4.0.js">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <script>
+   $(document).ready(
+    function(){
+      $('.tabs').tabs();
+      $('.sidenav').sidenav()
+      $('.parallax').parallax();
+      $('.datepicker').datepicker({});
+      
+    }
+  )
+  </script>
+  
 </html>
