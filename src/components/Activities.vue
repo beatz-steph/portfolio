@@ -18,7 +18,7 @@
                             <p> During the the course of my siwes 300, i was engage in the HNG internship(5th edition). It was a great experience even though it did not last for a long while</p>
                         </div>
                         <div class="card-action">
-                            <a href="#">medium post</a>
+                            <a href="https://medium.com/@Akinjiola.B/hng-remote-internship-92d56803e6ac">medium post</a>
                         </div>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                             <p> I got introduced to the various aspects of web developement during the course of my siwes 300. This opened my eyes more web technologies that are coming up</p>
                         </div>
                         <div class="card-action">
-                            <a href="#">medium post</a>
+                            <a href="https://medium.com/@Akinjiola.B/creating-a-server-on-your-node-application-using-express-js-bbd8940eed4b">medium post</a>
                         </div>
                     </div>
                 </div>
@@ -48,9 +48,6 @@
                                 Networking
                             </span>
                             <p> Networking was one of the many things i laid my hands on during the course of my siwes 300. I got proper understanding of soe networking terminologies</p>
-                        </div>
-                        <div class="card-action">
-                            <a href="#">medium post</a>
                         </div>
                     </div>
                 </div>
@@ -69,7 +66,7 @@
                         <p>This is website that enables students find accomodation in schools. This services being render are only currently available within Ile-ife </p>
                     </div>
                     <div class="card-action">
-                        <a href="#">medium post</a>
+                        <a href="www.seekhostel.com">visit</a>
                     </div>
                 </div>
             </div>
@@ -83,9 +80,6 @@
                             Better life savings
                         </span>
                         <p>This is a savings and loans app to enable easy savings and requesting of loans without collateral and  also offering dynamic saving plans</p>
-                    </div>
-                    <div class="card-action">
-                        <a href="#">medium post</a>
                     </div>
                 </div>
             </div>
