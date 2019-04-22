@@ -12,13 +12,13 @@
                     <li><a href="#skills">Skills</a></li>
                     <li><a href="#act">Activities</a></li>
                     <li><a href="#contact">Contact</a></li>
-                    <li><a href="#" class="btn-floatin btn-small grey darken-2 tooltipped" data-tooltip='Instagram'>
+                    <li><a href="https://www.instagram.com/man_like_neyo/" class="btn-floatin btn-small grey darken-2 tooltipped" data-tooltip='Instagram'>
                         <i class="fab fa-instagram"></i>
                     </a></li>
-                    <li><a href="#" class="btn-floatin btn-small grey darken-2 tooltipped" data-tooltip='Facebook'>
+                    <li><a href="https://web.facebook.com/otenku5" class="btn-floatin btn-small grey darken-2 tooltipped" data-tooltip='Facebook'>
                         <i class="fab fa-facebook"></i>
                     </a></li>
-                    <li><a href="#" class="btn-floatin btn-small grey darken-2 tooltipped" data-tooltip='Medium'>
+                    <li><a href="https://medium.com/@Akinjiola.B" class="btn-floatin btn-small grey darken-2 tooltipped" data-tooltip='Medium'>
                         <i class="fab fa-medium"></i>
                     </a></li>
                 </ul>
