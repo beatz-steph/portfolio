@@ -10,7 +10,7 @@
                 </p>
             </div>
             <div class="col s12 l5 offset-l2">
-                <form action="">
+                <form name="contact" method="POST" data-netlify="true">
                     <div class="input-field">
                         <i class="material-icons prefix">person</i>
                         <input type="text" id="name">
